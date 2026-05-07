@@ -94,9 +94,18 @@ background-size: cover;
 
 /* Day 04 */
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+
+#box1 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(42, 127, 255);
+    margin-left: 50px;
+    
 }
 
+#box2 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 42, 42);
+    margin-bottom: 50px;
+}
